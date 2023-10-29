@@ -2,13 +2,6 @@
     "available_space": true,
     "content": [
         {
-            "id": "virspnHpB4k",
-            "name": "Que Va a Ser de Ti [virspnHpB4k].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Que Va a Ser de Ti [virspnHpB4k].mp4",
-            "size": 9.551197,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Que Va a Ser de Ti [virspnHpB4k].mp4?raw=true"
-        },
-        {
             "id": "JSATqPxWmRc",
             "name": "Chosen Few - On The Right Track (Subtítulos en Español) [JSATqPxWmRc].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Chosen Few - On The Right Track (Subtítulos en Español) [JSATqPxWmRc].mp4",
@@ -23,25 +16,11 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Paganini： Sonata a preghiera M.S.23 - In F Minor per violino IV corda e chitarra - transcrip.... [bsNGHy1GTD0].mp4?raw=true"
         },
         {
-            "id": "bjXG9Y495Us",
-            "name": "Kraftwerk - Toccata Electronica (Full Album) [bjXG9Y495Us].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Kraftwerk - Toccata Electronica (Full Album) [bjXG9Y495Us].mp4",
-            "size": 84.956372,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Kraftwerk - Toccata Electronica (Full Album) [bjXG9Y495Us].mp4?raw=true"
-        },
-        {
             "id": "TPnB56fQJNQ",
             "name": "Caravan (Remastered) [TPnB56fQJNQ].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Caravan (Remastered) [TPnB56fQJNQ].mp4",
             "size": 11.256734,
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Caravan (Remastered) [TPnB56fQJNQ].mp4?raw=true"
-        },
-        {
-            "id": "eo7XXBeplcY",
-            "name": "Liszt： Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro [eo7XXBeplcY].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Liszt： Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro [eo7XXBeplcY].mp4",
-            "size": 9.948224999999999,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Liszt： Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro [eo7XXBeplcY].mp4?raw=true"
         },
         {
             "id": "g_S5Rl2v2gM",
@@ -58,20 +37,6 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 14 in E-Flat Major [5z3nB9InJq0].mp4?raw=true"
         },
         {
-            "id": "z4FGnllZxr8",
-            "name": "Bidin' My Time #3 [z4FGnllZxr8].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Bidin' My Time #3 [z4FGnllZxr8].mp4",
-            "size": 7.390612,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Bidin' My Time #3 [z4FGnllZxr8].mp4?raw=true"
-        },
-        {
-            "id": "Gjt3r7xOnKw",
-            "name": "Ma quale idea [Gjt3r7xOnKw].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Ma quale idea [Gjt3r7xOnKw].mp4",
-            "size": 8.525630999999999,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Ma quale idea [Gjt3r7xOnKw].mp4?raw=true"
-        },
-        {
             "id": "HtVgWzXGvj4",
             "name": "Prokofiev Scythian Suite, Op. 20 [HtVgWzXGvj4].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Prokofiev Scythian Suite, Op. 20 [HtVgWzXGvj4].mp4",
@@ -79,67 +44,11 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Prokofiev Scythian Suite, Op. 20 [HtVgWzXGvj4].mp4?raw=true"
         },
         {
-            "id": "ws9hsK2Sw4g",
-            "name": "I'd Rather Lead a Band (From ＂Follow the Fleet＂) [ws9hsK2Sw4g].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/I'd Rather Lead a Band (From ＂Follow the Fleet＂) [ws9hsK2Sw4g].mp4",
-            "size": 8.073217999999999,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/I'd Rather Lead a Band (From ＂Follow the Fleet＂) [ws9hsK2Sw4g].mp4?raw=true"
-        },
-        {
-            "id": "S39zZg0j8YQ",
-            "name": "Paul Whiteman Volume 2 (LP Album) [S39zZg0j8YQ].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Paul Whiteman Volume 2 (LP Album) [S39zZg0j8YQ].mp4",
-            "size": 88.24064,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Paul Whiteman Volume 2 (LP Album) [S39zZg0j8YQ].mp4?raw=true"
-        },
-        {
-            "id": "T0QjlRl2U_Y",
-            "name": "Overture [T0QjlRl2U_Y].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Overture [T0QjlRl2U_Y].mp4",
-            "size": 12.267882,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Overture [T0QjlRl2U_Y].mp4?raw=true"
-        },
-        {
-            "id": "xStgEskMSqQ",
-            "name": "[I've Got] Beginner's Luck [xStgEskMSqQ].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/[I've Got] Beginner's Luck [xStgEskMSqQ].mp4",
-            "size": 9.639781,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/[I've Got] Beginner's Luck [xStgEskMSqQ].mp4?raw=true"
-        },
-        {
             "id": "v5oAjAFDwQw",
             "name": "My Cousin In Milwaukee [v5oAjAFDwQw].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/My Cousin In Milwaukee [v5oAjAFDwQw].mp4",
             "size": 10.926235,
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/My Cousin In Milwaukee [v5oAjAFDwQw].mp4?raw=true"
-        },
-        {
-            "id": "gg12E1aac8s",
-            "name": "A-Tisket, A-Tasket [gg12E1aac8s].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/A-Tisket, A-Tasket [gg12E1aac8s].mp4",
-            "size": 5.904375,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/A-Tisket, A-Tasket [gg12E1aac8s].mp4?raw=true"
-        },
-        {
-            "id": "HN9cO6PfS58",
-            "name": "No. 6： Vivace [HN9cO6PfS58].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/No. 6： Vivace [HN9cO6PfS58].mp4",
-            "size": 9.92431,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/No. 6： Vivace [HN9cO6PfS58].mp4?raw=true"
-        },
-        {
-            "id": "qsxW3PsuH1A",
-            "name": "They All Laughed [qsxW3PsuH1A].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/They All Laughed [qsxW3PsuH1A].mp4",
-            "size": 8.981133,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/They All Laughed [qsxW3PsuH1A].mp4?raw=true"
-        },
-        {
-            "id": "juligEIi3Sg",
-            "name": "Cabaret Voltaire - I Want You (7＂ Mix) [juligEIi3Sg].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Cabaret Voltaire - I Want You (7＂ Mix) [juligEIi3Sg].mp4",
-            "size": 15.165018,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Cabaret Voltaire - I Want You (7＂ Mix) [juligEIi3Sg].mp4?raw=true"
         },
         {
             "id": "6h5p9EkDK48",
@@ -170,20 +79,6 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Poolside – Stir It Up Mixtape (Official Audio) [01WITv50s6A].mp4?raw=true"
         },
         {
-            "id": "fk_xDw5qAus",
-            "name": "Alessandro Marcello  - Adagio [fk_xDw5qAus].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Alessandro Marcello  - Adagio [fk_xDw5qAus].mp4",
-            "size": 80.979541,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Alessandro Marcello  - Adagio [fk_xDw5qAus].mp4?raw=true"
-        },
-        {
-            "id": "jdGTmxBaQpw",
-            "name": "Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 10, Allegro agitato molto [jdGTmxBaQpw].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 10, Allegro agitato molto [jdGTmxBaQpw].mp4",
-            "size": 10.159389,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Liszt： 12 Etudes d'exécution transcendante, S. 139 - No. 10, Allegro agitato molto [jdGTmxBaQpw].mp4?raw=true"
-        },
-        {
             "id": "3Yr2D9qePaA",
             "name": "Faccia a Faccia - Titles (From ＂Face to Face＂) [3Yr2D9qePaA].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Faccia a Faccia - Titles (From ＂Face to Face＂) [3Yr2D9qePaA].mp4",
@@ -196,13 +91,6 @@
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Yellowman & Fathead - Operation Radication [OpDueeGPuc0].mp4",
             "size": 9.180803,
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Yellowman & Fathead - Operation Radication [OpDueeGPuc0].mp4?raw=true"
-        },
-        {
-            "id": "AIcMKajnu2I",
-            "name": "スウィート　ラプソディー [AIcMKajnu2I].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/スウィート　ラプソディー [AIcMKajnu2I].mp4",
-            "size": 7.322919,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/スウィート　ラプソディー [AIcMKajnu2I].mp4?raw=true"
         },
         {
             "id": "G2k4sh8XfPo",
@@ -226,27 +114,6 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Piano Concerto in B Minor, Op. 89： I. Allegro moderato [-UynjMc8NRU].mp4?raw=true"
         },
         {
-            "id": "E6hWV7CsuYc",
-            "name": "Spineless [E6hWV7CsuYc].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Spineless [E6hWV7CsuYc].mp4",
-            "size": 9.249058999999999,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Spineless [E6hWV7CsuYc].mp4?raw=true"
-        },
-        {
-            "id": "QGvUfF4k0jw",
-            "name": "OBUS-TE VISITARA LA MUERTE (CON LETRA) [QGvUfF4k0jw].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/OBUS-TE VISITARA LA MUERTE (CON LETRA) [QGvUfF4k0jw].mp4",
-            "size": 20.170726,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/OBUS-TE VISITARA LA MUERTE (CON LETRA) [QGvUfF4k0jw].mp4?raw=true"
-        },
-        {
-            "id": "i4SbA1jG3YE",
-            "name": "Las Malas Compañias [i4SbA1jG3YE].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Las Malas Compañias [i4SbA1jG3YE].mp4",
-            "size": 9.405306,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Las Malas Compañias [i4SbA1jG3YE].mp4?raw=true"
-        },
-        {
             "id": "10cYHU9j31Q",
             "name": "Green Chimneys [10cYHU9j31Q].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/Green Chimneys [10cYHU9j31Q].mp4",
@@ -254,40 +121,12 @@
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Green Chimneys [10cYHU9j31Q].mp4?raw=true"
         },
         {
-            "id": "XL4dcAIWqgA",
-            "name": "Crumb - BNR [Official Video] [XL4dcAIWqgA].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Crumb - BNR [Official Video] [XL4dcAIWqgA].mp4",
-            "size": 12.846838,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Crumb - BNR [Official Video] [XL4dcAIWqgA].mp4?raw=true"
-        },
-        {
-            "id": "fOTBnqpNymE",
-            "name": "Halina Mickiewiczówna sings Richard Mulder's Staccato-Polka (audio + score) [fOTBnqpNymE].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Halina Mickiewiczówna sings Richard Mulder's Staccato-Polka (audio + score) [fOTBnqpNymE].mp4",
-            "size": 8.53482,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Halina Mickiewiczówna sings Richard Mulder's Staccato-Polka (audio + score) [fOTBnqpNymE].mp4?raw=true"
-        },
-        {
-            "id": "CJDuV3XYHTs",
-            "name": "How About a Man？ [CJDuV3XYHTs].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/How About a Man？ [CJDuV3XYHTs].mp4",
-            "size": 6.397406999999999,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/How About a Man？ [CJDuV3XYHTs].mp4?raw=true"
-        },
-        {
             "id": "ptlQNy9hILY",
             "name": "C.Graupner - Concerto in G major for Fl. d'amore, Ob. d'amore, Viola d'amore, Strings & B.c GWV 333 [ptlQNy9hILY].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w4/videos/C.Graupner - Concerto in G major for Fl. d'amore, Ob. d'amore, Viola d'amore, Strings & B.c GWV 333 [ptlQNy9hILY].mp4",
             "size": 15.931388,
             "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/C.Graupner - Concerto in G major for Fl. d'amore, Ob. d'amore, Viola d'amore, Strings & B.c GWV 333 [ptlQNy9hILY].mp4?raw=true"
-        },
-        {
-            "id": "V-840mB5Q7U",
-            "name": "Verdicte, Walzer, Op. 137 - Eduard Strauss [V-840mB5Q7U].mp4",
-            "path": "/home/alanmatzumiya/Videos/container/w4/videos/Verdicte, Walzer, Op. 137 - Eduard Strauss [V-840mB5Q7U].mp4",
-            "size": 29.786896,
-            "url": "https://github.com/circuitalmynds/music_w4/blob/main/videos/Verdicte, Walzer, Op. 137 - Eduard Strauss [V-840mB5Q7U].mp4?raw=true"
         }
     ],
-    "total_size": 933.7150049999998
+    "total_size": 460.29371000000003
 }
